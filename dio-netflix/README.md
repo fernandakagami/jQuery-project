@@ -10,4 +10,4 @@ Project of Netflix. It was done in a course made by Dio. The Netflix project was
     <li>Jquery</li>    
 </ul>
 
-<a href="https://fernandakagami.github.io/javaScript-projects/dio-netflix/" target="_blank">Link to project</a>
+<a href="https://fernandakagami.github.io/jQuery-project/dio-netflix/" target="_blank">Link to project</a>
